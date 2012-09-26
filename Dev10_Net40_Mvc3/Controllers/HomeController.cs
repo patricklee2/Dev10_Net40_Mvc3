@@ -10,7 +10,7 @@ namespace Dev10_Net40_Mvc3.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to ASP.NET MVC - After changes!";
 
             return View();
         }
