@@ -10,7 +10,7 @@ namespace Dev10_Net40_Mvc3.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC - After changes!";
+            ViewBag.Message = "Dev10 Mvc3 application targetting Fx4.0";
 
             return View();
         }
